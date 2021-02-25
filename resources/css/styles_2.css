@@ -1,0 +1,190 @@
+
+/*------------------------------------------*/
+/* BASIC SETUP */
+/*------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #ffffff;
+    color: rgb(82, 81, 81);
+    font-family: 'PT Serif', serif; /* Get font in CSS through https://fonts.google.com/ */
+    font-weight: 400;
+    font-size: 22px;
+    text-rendering: optimizeLegibility;
+}
+
+h1{
+    color: #fff;
+    font-size: 240%;
+    font-weight: 200;
+}
+
+
+
+/*------------------------------------------*/
+/* REUSABLE COMPONENTS */
+/*------------------------------------------*/
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+/*------------------------------------------*/
+/* HEADER */
+/*------------------------------------------*/
+
+header {
+    background-color: rgba(76, 79, 88, 0.726); /* #909086; */
+    height: 180px;
+    border-bottom: 5px solid rgb(41, 39, 39);
+    border-top: 5px solid rgb(41, 39, 39);
+}
+
+.profile {
+    width: auto;
+    float: right;
+    height: 170px;
+    width: auto;
+    margin-right: 2%;
+}
+
+.profile-text {
+    float: left;
+    margin: 67px 80px;
+    font-size: 30px;
+    list-style: none;
+}
+
+.profile-text li { /* This selects all li elements within the profile element */
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.profile-text li a:link, /* The link at the non-visited state and visited state */
+.profile-text li a:visited {
+    padding: 8px 0px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 90%;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+
+.profile-text li a:hover, 
+.profile-text li a:active {
+    border-bottom: 2px solid black;
+}
+
+
+
+/*------------------------------------------*/
+/* MAIN PAGE */
+/*------------------------------------------*/
+
+.main-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+
+.main-page {
+    background-image: linear-gradient(#0000008c, #000000a2), url(img/snow-mountain.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    border-bottom: 5px solid rgb(41, 39, 39);
+}
+
+.name-header {
+    margin-top: 0;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+/*------------------------------------------*/
+/* BUTTONS */
+/*------------------------------------------*/
+
+.btn:link,
+.btn:visited {
+    margin-top: 40px;
+    display: inline-block;
+    padding: 20px 70px;
+    font-weight: 200; /* You should always decrease the font weight when you have big headlines */ 
+    text-decoration: none;
+    border-radius: 200px;
+    color: #fff;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    font-size: 25px;
+}
+
+.btn-full:link,
+.btn-full:visited {
+    background-color: #bdc3c7; /* Get colors through https://flatuicolors.com/palette */ 
+    border: 1px solid #bdc3c7; 
+    margin-right: 30px;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited {
+    border: 1px solid #bdc3c7; 
+}
+
+.btn:hover,
+.btn:active {
+    background-color: #a1aab0; /* Find darker shaded colors through https://www.0to255.com/ */
+}
+
+
+/*------------------------------------------*/
+/* ABOUT ME */
+/*------------------------------------------*/
+
+.about-me-section {
+    background-color: rgba(167, 169, 175, 0.726);
+}
+
+.about-me {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border: 5px solid black;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.about-me h2 {
+    margin: 3% 20px 20px 3%;
+    font-size: 40px;
+}
+
+.about-me p {
+    margin: 1% 20px 50px 3%;
+    font-size: 25px;
+}
+
+
+/*------------------------------------------*/
+/*              SCHOLARLY WORK              */
+/*------------------------------------------*/
+
+.scholarly-work p {
+    font-size: 30px;
+}
+
+
+/*------------------------------------------*/
+/*              CREATIVE WORK               */
+/*------------------------------------------*/
+
+
+.creative-work-section {}

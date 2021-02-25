@@ -1,0 +1,338 @@
+
+/*------------------------------------------*/
+/* BASIC SETUP */
+/*------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgba(214, 207, 207, 0.719);
+    color: rgb(82, 81, 81);
+    font-family: 'PT Serif', serif; /* Get font in CSS through https://fonts.google.com/ */
+    font-weight: 400;
+    font-size: 22px;
+    text-rendering: optimizeLegibility;
+}
+
+h1{
+    color: #fff;
+    font-size: 240%;
+    font-weight: 200;
+}
+
+
+
+/*------------------------------------------*/
+/* REUSABLE COMPONENTS */
+/*------------------------------------------*/
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/*------------------------------------------*/
+/* HEADER */
+/*------------------------------------------*/
+
+
+header {
+    background-image: linear-gradient(#000000af, #000000a2), url(img/tartan.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+}
+
+/* Links */ 
+
+.banner-1 {
+    width: 18%;
+}
+
+.social-links {
+    list-style: none;
+    margin-left: 20%;
+    font-size: 30px;
+    word-spacing: 20px;
+    color: #fff;
+}
+
+.social-links li a{
+    color: #fff;
+}
+
+.social-links li:last-child {
+    list-style: none;
+    word-spacing: 50px;
+}
+
+.header-text,
+.social-links li { /* This selects all li elements within the profile element */
+    display: inline-block;
+    color: #fff;
+}
+
+.header-text a:link, /* The link at the non-visited state and visited state */
+.header-text a:visited,
+.social-links li a:link,
+.social-links li a:visited {
+    color: #fff;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+.header-text a:hover, 
+.header-text a:active,
+.social-links li a:hover,
+.social-links li a:active {
+    font-size: 150%;
+}
+
+
+/* About me */ 
+
+.banner-2 {
+    width: 55%;
+    margin-left: 2%;
+    margin-right: 5%;
+    line-height: 200%;
+    text-align: center;
+}
+
+
+/* Photo */ 
+
+.banner-3 {
+    width: 5%;
+}
+
+header img{
+    margin-left: 100%;
+    margin-right: 20%;
+    height: 120px;
+}
+
+header p {
+    position: relative;
+    color: white;
+}
+
+
+/*------------------------------------------*/
+/* MAIN PAGE */
+/*------------------------------------------*/
+
+
+.main {
+    width: 100%;
+}
+
+.section-main {
+    padding-top: 1.5%;
+    padding-left: 25%;
+    padding-right: 20%;
+}
+
+.section-main-pictures {
+    list-style: none;
+    width: 100%;
+}
+
+.section-main-pictures li {
+    display: block;
+    float: left;
+    width: 40%;
+    padding: 20px 20px 20px 20px;
+}
+
+.main-photo {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.main-photo img {
+    opacity: 0.7;
+    width: 100%;
+    height: 440px;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.main-photo img:hover {
+    opacity: 1;
+    transform: opacity(1.03);
+}
+
+.main-photo-1 h2{
+    transition: color 1s ease;
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 33%;
+    right: auto;
+    top: 45%; 
+    text-align: center;
+}
+
+.main-photo img:hover ~ .main-photo-1 h2 {
+    color: rgba(76, 79, 88, 0.726);
+}
+
+.main-photo-2 h2{
+    transition: color 1s ease;
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 55%;
+    right: auto;
+    top: 45%; 
+    text-align: center;
+}
+
+.main-photo img:hover ~ .main-photo-2 h2 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+.main-photo-3 h2{
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 33%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
+.main-photo img:hover ~ .main-photo-3 h2 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+.main-photo-4 h2{
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 57%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
+.main-photo img:hover ~ .main-photo-4 h2 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+/*------------------------------------------*/
+/* BUTTONS */
+/*------------------------------------------*/
+
+.btn:link,
+.btn:visited {
+    margin-top: 40px;
+    display: inline-block;
+    padding: 20px 70px;
+    font-weight: 200; /* You should always decrease the font weight when you have big headlines */ 
+    text-decoration: none;
+    border-radius: 200px;
+    color: #fff;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    font-size: 25px;
+}
+
+.btn-full:link,
+.btn-full:visited {
+    background-color: #bdc3c7; /* Get colors through https://flatuicolors.com/palette */ 
+    border: 1px solid #bdc3c7; 
+    margin-right: 30px;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited {
+    border: 1px solid #bdc3c7; 
+}
+
+.btn:hover,
+.btn:active {
+    background-color: #a1aab0; /* Find darker shaded colors through https://www.0to255.com/ */
+}
+
+/*------------------------------------------*/
+/* PUBLICATIONS PAGE */
+/*------------------------------------------*/
+
+.publication-header {
+    font-size: 30px;
+}
+
+.publication-header h1 {
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.publication-list {
+    margin-left: 5%;
+}
+
+.publication-list li {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+
+/*------------------------------------------*/
+/* CV */
+/*------------------------------------------*/
+
+.CV-main {
+    text-align: center;
+}
+
+.CV-contact {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    line-height: 150%;
+}
+
+.CV-header {
+    padding-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    line-height: 150%;
+    width: 10%;
+    border: 10% solid black;
+    float: left;
+    position: relative;
+}
+
+.CV-experience {
+    padding-left: 12%;
+    margin-top: 2%;
+    line-height: 150%;
+    width: 70%;
+    border: 10% solid black;
+    float: left;
+    position: relative;
+}
+
+.CV-dates {
+    font-size: 70%;
+}
+
+.CV-other-list {
+    margin-left: 5%;
+}
