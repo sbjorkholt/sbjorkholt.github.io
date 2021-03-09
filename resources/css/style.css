@@ -143,12 +143,86 @@ header p {
     width: 100%;
 }
 
-.section-main-pictures li {
+.scholar {
     display: block;
     float: left;
+    border-radius: 3px;
+    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
     width: 50%;
     padding: 40px 40px 40px 40px;
 }
+
+.scholar h2 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 63%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
+.tech {
+    display: block;
+    float: left;
+    border-radius: 3px;
+    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
+    width: 50%;
+    padding: 40px 40px 40px 40px;
+}
+
+.tech h2 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 63%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
+.shortstories {
+    display: block;
+    float: left;
+    border-radius: 3px;
+    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
+    width: 50%;
+    padding: 40px 40px 40px 40px;
+}
+
+.shortstories h2 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 63%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
+.reflections {
+    display: block;
+    float: left;
+    border-radius: 3px;
+    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
+    width: 50%;
+    padding: 40px 40px 40px 40px;
+}
+
+.reflections h2 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 40px;
+    color: #fff;
+    left: 63%;
+    right: auto;
+    top: 85%; 
+    text-align: center;
+}
+
 
 .main-photo {
     width: 100%;
@@ -176,9 +250,10 @@ header p {
     margin: 0 auto;
     font-size: 40px;
     color: #fff;
-    left: 31%;
+    left: 30%;
     right: auto;
     top: 50%; 
+    bottom: auto;
     text-align: center;
 }
 
@@ -218,17 +293,6 @@ header p {
     color: rgba(195, 197, 204, 0.726);
 }
 
-
-.main-photo-4 h2{
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 63%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
 
 .main-photo img:hover ~ .main-photo-4 h2 {
     color: rgba(195, 197, 204, 0.726);
