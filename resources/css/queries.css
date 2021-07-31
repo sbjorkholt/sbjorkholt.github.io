@@ -1,0 +1,162 @@
+
+/* Small tablets to big tablet: 768px to 1023px 
+@media only screen and (max-width: 1023px) {
+
+}
+*/
+
+/* Small phones to small tablets: 481px to 767px */
+@media only screen and (max-width: 767px) {
+    
+    .banner-2 {
+        font-size: 14px;
+    }
+
+    header img{
+        margin-left: 20%;
+        margin-right: 30%;
+        height: 100px;
+    }
+
+    .social-links {
+        font-size: 18px;
+    }
+
+    .scholar {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .scholar h2 {
+        font-size: 25px;
+        color: #fff;
+        left: 36%;
+        right: auto;
+        top: 30%; 
+        text-align: center;
+    }
+    
+    .shortstories {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .shortstories h2 {
+        font-size: 25px;
+        left: 36%;
+        right: auto;
+        top: 80%; 
+        text-align: center;
+    }
+
+    .tech {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .tech h2 {
+        font-size: 25px;
+        color: #fff;
+        left: 36%;
+        right: auto;
+        top: 130%; 
+        text-align: center;
+    }
+    
+    .reflections {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .reflections h2 {
+        font-size: 25px;
+        left: 36%;
+        right: auto;
+        top: 180%; 
+        text-align: center;
+    }
+    
+}
+
+/* Small phones: 0px to 480px */
+@media only screen and (max-width: 480px) {
+
+    .banner-2 {
+        font-size: 13px;
+    }
+
+    header img{
+        margin-left: 20%;
+        margin-right: 10%;
+        height: 70px;
+    }
+
+    .social-links {
+        font-size: 13px;
+    }
+
+    .scholar {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .scholar h2 {
+        font-size: 20px;
+        color: #fff;
+        left: 36%;
+        right: auto;
+        top: 45%; 
+        text-align: center;
+    }
+    
+    .shortstories {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .shortstories h2 {
+        font-size: 20px;
+        left: 36%;
+        right: auto;
+        top: 95%; 
+        text-align: center;
+    }
+
+    .tech {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .tech h2 {
+        font-size: 20px;
+        color: #fff;
+        left: 36%;
+        right: auto;
+        top: 145%; 
+        text-align: center;
+    }
+    
+    .reflections {
+        border-radius: 2px;
+        padding: 20px 20px 20px 20px;
+        width: 100%;
+    }
+    
+    .reflections h2 {
+        font-size: 20px;
+        left: 36%;
+        right: auto;
+        top: 195%; 
+        text-align: center;
+    }
+    
+}
+
+
