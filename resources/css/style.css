@@ -354,6 +354,55 @@ header p {
     margin-bottom: 1%;
 }
 
+/*------------------------------------------*/
+/* TECHY THINGS PAGE */
+/*------------------------------------------*/
+
+
+.tech-header {
+    font-size: 30px;
+}
+
+.tech-header h1 {
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.tech-scrum {
+    display: block;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+    line-height: 250%;
+    width: 40%;
+}
+
+.tech-scrum img {
+    margin-top: 20%;
+}
+
+.tech-rstudio-trainer img {
+    margin-top: 12%;
+}
+
+.tech-scrum h4{
+    margin-bottom: 3%;
+}
+
+
+.tech-rstudio-trainer {
+    display: block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+    line-height: 250%;
+    width: 40%;
+}
+
+.tech-rstudio-trainer h4 {
+    margin-bottom: 3%;
+}
+
 
 /*------------------------------------------*/
 /* CV */
