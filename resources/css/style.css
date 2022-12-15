@@ -10,8 +10,8 @@
 }
 
 html {
-    background-color: rgba(214, 207, 207, 0.719);
-    color: rgb(82, 81, 81);
+    /*background-color: #B2D3C2;*/
+    color: rgb(219, 212, 212);
     font-family: 'PT Serif', serif; /* Get font in CSS through https://fonts.google.com/ */
     font-weight: 400;
     font-size: 22px;
@@ -41,7 +41,7 @@ h1{
 
 
 header {
-    background-image: linear-gradient(#000000af, #000000a2), url(img/tartan.jpg);
+    background-image: linear-gradient(#9dc183, #B2D3C2);
     background-size: cover;
     background-position: center;
     height: 160px;
@@ -50,24 +50,20 @@ header {
 /* Links */ 
 
 .banner-1 {
-    width: 12%;
+    width: 10%;
 }
 
 .social-links {
     list-style: none;
-    margin-left: 20%;
-    font-size: 17px;
-    word-spacing: 200px;
+    margin-left: 30%;
+    font-size: 50px;
+    word-spacing: 10px;
     color: #fff;
+    display: block;
 }
 
 .social-links li a{
     color: #fff;
-}
-
-.social-links li:last-child {
-    list-style: none;
-    word-spacing: 50px;
 }
 
 .header-text,
@@ -82,44 +78,46 @@ header {
 .social-links li a:visited {
     color: #fff;
     text-decoration: none;
-    font-size: 120%;
 }
 
 .header-text a:hover, 
 .header-text a:active,
 .social-links li a:hover,
 .social-links li a:active {
-    font-size: 110%;
+    color: #444C38;
 }
-
 
 /* About me */ 
 
 .banner-2 {
     width: 65%;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-right: 5%;
-    line-height: 200%;
+    line-height: 150%;
     text-align: center;
     font-size: 18px;
-}
-
-
-/* Photo */ 
-
-.banner-3 {
-    width: 5%;
-}
-
-header img{
-    margin-left: 100%;
-    margin-right: 20%;
-    height: 130px;
 }
 
 header p {
     position: relative;
     color: white;
+    border-bottom: 1px solid #444C38;
+
+}
+
+
+/* Photo */ 
+
+header img{
+    margin-left: 20%;
+    height: 200px;
+    border: outset;
+    border-color: #444C38;
+}
+
+
+.banner-3 {
+    width: 10%;
 }
 
 
@@ -127,16 +125,120 @@ header p {
 /* MAIN PAGE */
 /*------------------------------------------*/
 
+.section-main {
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.special-heading-tag {
+    color: #444C38;
+}
+
+.special-heading-border {
+    border-color: #444C38;
+    display: block;
+    width: 100%;
+    margin-left: 15px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    position: relative;
+    top: 10%;
+    opacity: 0.15;
+}
+
+/*@media only screen and (min-width: 801px)*/
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+    text-align: center;
+    padding: 30px;
+}
+
+.grid-item h4 {
+    color: #9dc183;
+}
+
+img, a img {
+    border: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    max-width: 100%;
+    width: relative;
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 1.1em;
+    margin-bottom: 4px;
+    text-transform: none!important;
+}
+
+
+/*Links photo */
+
+a:link {
+    text-decoration: none;
+  }
+
+a h4:hover{
+    color: #444C38;
+}
+
+.main-photo {
+    margin: 0;
+    overflow: hidden;
+}
+
+.main-photo img {
+    opacity: 1;
+    transform: scale(1.15);
+    transition: transform 0.2s, opacity 0.2s;
+}
+
+.main-photo img:hover {
+    opacity: 0.8;
+    transform: opacity(1.03);
+}
+
+.main-photo img:hover ~ .grid-item h4 {
+    color: #444C38; 
+}
+
+.main-photo img:hover ~ .main-photo-2 h2 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+.main-photo img:hover ~ .main-photo-3 h4 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+.main-photo img:hover ~ .grid-item h4 {
+    color: rgba(195, 197, 204, 0.726);
+}
+
+
+
+
+
+
+
+/*
 
 .main {
     width: 100%;
 }
 
-.section-main {
-    padding-top: 1.5%;
-    padding-left: 20%;
-    padding-right: 20%;
-}
+
 
 .section-main-pictures {
     list-style: none;

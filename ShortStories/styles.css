@@ -1,0 +1,171 @@
+/**************************************************************
+   AUTHOR:  Pat Heard (fullahead.org)
+   DATE:    2006.09.12 
+   PURPOSE: Styles the html elements
+ **************************************************************/
+
+/* Forces horizontal scrollbar on in Mozilla */
+
+html,
+body {
+  background-color: white;
+  height: 100%;
+}
+
+body {
+  text-align: left;
+  font: 500 0.8em georgia, serif;
+  line-height: 200%;
+}
+
+/**************************************************************
+   Header
+ **************************************************************/
+
+header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: linear-gradient(#9dc183, #B2D3C2);
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.navbar {
+  font-size: 105%;
+  height: 50px;
+}
+
+.navbar ul {
+  padding: 0 30px 0 5px;
+  list-style: none;
+  text-align: center;
+  font-size: small;
+}
+
+.nav-header {
+  font-size: large;
+}
+
+.nav-header{
+  color: #444C38;
+}
+
+.navbar li {
+  float: left;
+  display: block;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+
+/**************************************************************
+   Text
+ **************************************************************/
+
+
+.main_div{
+  margin-top: 50px;
+  padding-left: 450px;
+  padding-right: 450px;
+  font-family: Merriweather, Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, dl {
+  margin: 0;
+  padding: 10px 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {   
+  clear: both;
+  font: 1000 1.9em georgia, serif;
+  color: #444C38;  
+  text-transform: uppercase;
+  padding-top: 50px;
+  font-size: xx-large;
+}
+
+h3 {
+  font: 700 1.1em Merriweather, georgia, serif;
+  font-size: x-large;
+  color: #3C5D29;
+  padding: 20px;
+}
+
+#joannaswan, #benjaminsjourney, #amandassin, #dataanalyst, #mismatchmaker, #birthofnobody, #awakening, #equation42, #letter {
+  padding-top: 50px;
+}
+
+.freestanding {
+  border-top: #3C5D29 solid 1px;
+}
+
+p {
+  font-size: larger;
+}
+
+/**************************************************************
+   Links
+ **************************************************************/
+
+a {
+  text-decoration: none;
+  color: #5E9040;  
+}
+
+a:hover {
+  color: #3C5D29;
+  border-bottom: 1px solid #4A6E35;
+}
+
+/**************************************************************
+   Footer
+ **************************************************************/
+
+footer {
+  background-image: linear-gradient(#B2D3C2, #9dc183);
+  background-size: cover;
+  background-position: center;
+  height: 50;
+}
+
+/**************************************************************
+   Not in use
+ **************************************************************/
+
+/*
+acronym {
+  cursor: help;
+  border-bottom: 1px solid #DDD;
+}
+
+blockquote {
+  margin: 10px 0;
+  background-color: #F1FFE3;
+  border-bottom: 1px solid #B8E78B;
+}
+
+blockquote p {
+  margin: 0.4em 0.8em;
+}
+
+del {
+  color: #AAA;
+}
+
+code {
+  margin: 15px 0;
+  padding: 10px;
+  display: block;
+  overflow: auto;
+  
+  font: 400 1em courier, monospace;
+  line-height: 120%;
+  white-space: pre;
+  
+  background: #F4F4F4;
+  border-bottom: 1px solid #D3D3D3;
+}
+*/
