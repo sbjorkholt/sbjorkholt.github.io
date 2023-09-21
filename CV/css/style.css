@@ -194,17 +194,6 @@
   border-bottom:1px solid #333
 }
 
-/*------------------------------------------*/
-/* PUBLICATIONS & TEACHING                  */
-/*------------------------------------------*/
-
-.publication_teaching{
-  margin: auto;
-  max-width:900px;
-  width: 50%;
-  display: flex;
-}
-
 
 /*------------------------------------------*/
 /* PUBLICATIONS                             */
@@ -218,6 +207,38 @@
   margin-bottom: 15px;  
 }
 
+.publications{
+  padding-bottom: 30px;
+}
+
+/*------------------------------------------*/
+/* TEACHING & CONFERENCES                   */
+/*------------------------------------------*/
+
+/*.publication_conferences{
+  padding-top: 70px;
+  margin: auto;
+  max-width: 900px;
+  width: 50%;
+  display: flex;
+}/*
+
+/*------------------------------------------*/
+/* CONFERENCES                              */
+/*------------------------------------------*/
+
+.conferences .conferences-list{
+  margin-left:0px
+}
+
+.conferences .conferences-list li{
+  margin-bottom: 15px;  
+}
+
+.conferences{
+  padding-bottom: 30px;
+}
+
 /*------------------------------------------*/
 /* TEACHING                             */
 /*------------------------------------------*/
@@ -228,7 +249,12 @@
 
 .teaching .teaching-list li{
   font-size:0.9375em;
-  color:#8c8c8c
+  color:#8c8c8c;
+  margin-bottom: 15px;  
+}
+
+.teaching{
+  padding-bottom: 30px;
 }
 
 
@@ -238,7 +264,7 @@
 
 .technical_other{
   margin: auto;
-  max-width:900px;
+  max-width:1200px;
   width: 50%;
   display: flex;
 }
