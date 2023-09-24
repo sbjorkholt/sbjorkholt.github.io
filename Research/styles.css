@@ -13,6 +13,8 @@ body {
 
 body {
   text-align: left;
+  margin-left: 400px;
+  margin-right: 400px;
   font: 500 0.8em georgia, serif;
   line-height: 200%
 }
@@ -21,31 +23,28 @@ body {
    Header
  **************************************************************/
 
-header {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: linear-gradient(white, #a8dada);
+ header {
+  background-color: #3c5d2929;
   background-size: cover;
   background-position: center;
-  height: 100px;
+  height: 7%;
   text-align: center;
-  font-size: 18px;
+  padding-top: 10px;
 }
 
 .navbar {
-  font-size: 105%;
-  height: 50px;
+  height: 20px;
 }
 
 .nav-header {
-  font-size: large;
+  font-size: medium;
 }
 
 .navbar li {
   float: left;
   display: block;
-  margin-right: 12em;
-  margin-left: 12em;
+  margin-right: 2em;
+  margin-left: 12%;
 }
 
 .navbar ul {
@@ -59,93 +58,96 @@ header {
    Text
  **************************************************************/
 
-.pictures {
-  flex: 1;
-  max-width: 100%;
-  width: relative;
-  object-fit: cover;
-  margin-top: 5%;
-}
-
-img {
-  width:  350px;
-  height: 350px;  
-}
-
 .heading {
   text-align: left;
   width: 50%;
-  margin-top: 7%;
+  margin-top: 10%;
 }
 
 .heading ul h3 {
-  line-height: 30px;
+  line-height: 20px;
 }
 
 .text {
   text-align: right;
-  width: 60%;
+  width: 80%;
+}
+
+.a{
+  color: #283618;
 }
 
 .text ul p {
-  line-height: 30px;
+  line-height: 20px;
+}
+
+/* Adjust the width of the first column */
+#column1 {
+  flex: 2; /* This column will be twice as wide as the second column */
+}
+
+/* You can add more specific styles to the second column if needed */
+#column2 {
+  flex: 1; /* This column will be half as wide as the first column */
+}
+
+.column2 ul:first-child{
+  padding-top: 80px;
+}
+
+#dissertation {
+  display: flex;
+  background-color: #F0EFEB;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-top: #3C5D29 solid 1px;
+  border-bottom: #3C5D29 solid 1px;
+  padding-bottom: 5px;
+  height: 300px;
+}
+
+#dissertation h5,
+#dissertation p {
+    display: inline;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #papers {
   display: flex;
-  background-color: #a8dada;
-  padding-left: 200px;
-  padding-right: 200px;
+  background-color: #F0EFEB;
+  padding-left: 150px;
+  padding-right: 150px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 20px;
-  height: 500px;
+  padding-bottom: 10px;
+  height: 300px;
 }
 
-#papers h3,
+#papers h5,
 #papers p {
     display: inline;
     font-family: 'Open Sans', sans-serif;
 }
 
-#apps {
+#presentations {
   display: flex;
-  background-color: #90a1cd;
-  padding-left: 200px;
-  padding-right: 200px;
+  background-color: #F0EFEB;
+  padding-left: 150px;
+  padding-right: 150px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 20px;
-  height: 500px;
+  padding-bottom: 10px;
+  height: 300px;
 }
 
-#apps h3,
-#apps p {
+#presentations h5,
+#presentations p {
     display: inline;
     font-family: 'Open Sans', sans-serif;
 }
-
-#teaching {
-  display: flex;
-  background-color: #96b3a5;
-  padding-left: 200px;
-  padding-right: 200px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  border-top: #3C5D29 solid 1px;
-  border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 20px;
-  height: 500px;
-}
-
-#teaching h3,
-#teaching p {
-    display: inline;
-    font-family: 'Open Sans', sans-serif;
-}
-
-
 
 h1 {   
   clear: both;
