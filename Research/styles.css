@@ -8,7 +8,7 @@
 
 html,
 body {
-  background-color: white;
+  background-color: #F0EFEB;
 }
 
 body {
@@ -44,11 +44,10 @@ body {
   float: left;
   display: block;
   margin-right: 2em;
-  margin-left: 12%;
+  margin-left: 10%;
 }
 
 .navbar ul {
-  padding: 0 30px 0 5px;
   list-style: none;
   text-align: center;
   font-size: small;
@@ -92,7 +91,7 @@ body {
 }
 
 .column2 ul:first-child{
-  padding-top: 80px;
+  padding-top: 100px;
 }
 
 #dissertation {
@@ -140,7 +139,7 @@ body {
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
   padding-bottom: 10px;
-  height: 300px;
+  height: 400px;
 }
 
 #presentations h5,
