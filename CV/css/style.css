@@ -30,7 +30,7 @@
 
 .main-nav{
   background:#999;
-  padding-top:23px}
+  padding-top: 50px}
  
 .main-nav nav ul li a{
   color:white}
@@ -41,7 +41,7 @@
 .navbar {
   font-size: 105%;
   margin-bottom: 1.65em;
-  height: 50px;
+  height: 100%;
 }
 
 .navbar ul {
@@ -93,11 +93,11 @@
   
 .section .container h1{
   text-transform:uppercase;
-  margin-bottom:30px;
+  margin-bottom: 3%;
   position:relative}
   
 .intro{
-    padding:70px 0px 70px 0px;
+    padding: 1% 0% 1% 0%;
     overflow-x:hidden
   }
  

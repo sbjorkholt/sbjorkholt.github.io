@@ -45,15 +45,19 @@ header {
     /*background-image: linear-gradient(#9dc183, #B2D3C2);*/
     background-size: cover;
     background-position: center;
-    height: 160px;
+    max-width: 100%;
+    height: 150px;
+}
+
+header p {
+    position: relative;
+    color: white;
+    border-bottom: 1px solid #444C38;
+
 }
 
 /* Links */ 
-
-.banner-1 {
-    width: 10%;
-}
-
+/*
 .social-links {
     list-style: none;
     margin-left: 30%;
@@ -61,6 +65,18 @@ header {
     word-spacing: 10px;
     color: #fff;
     display: block;
+}
+*/
+
+.social-links {
+    list-style: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0;
+    float: left; 
+    color: #fff;
+    font-size: 50px;
+    width: 50%; /* Adjust the width as needed */
 }
 
 .social-links li a{
@@ -90,38 +106,30 @@ header {
 
 /* About me */ 
 
+.banner-1 {
+    width: 23%;
+    max-width: 100%;
+}
+
 .banner-2 {
-    width: 65%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 50%;
+    max-width: 100%;
     line-height: 150%;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
 }
 
-header p {
-    position: relative;
-    color: white;
-    border-bottom: 1px solid #444C38;
-
+.banner-3 {
+    width: 23%;
 }
 
-
-/* Photo */ 
-
-header img{
-    margin-left: 20%;
-    height: auto;
+.banner-3 img {
+    width: 20%; 
     max-width: 100%;
+    height: auto;
     border: outset;
     border-color: #444C38;
 }
-
-
-.banner-3 {
-    width: 10%;
-}
-
 
 /*------------------------------------------*/
 /* MAIN PAGE */
@@ -150,7 +158,6 @@ header img{
     opacity: 0.15;
 }
 
-/*@media only screen and (min-width: 801px)*/
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -158,13 +165,12 @@ header img{
 
 .grid-item {
     text-align: center;
-    padding: 30px;
+    padding: 10%;
 }
 
 .grid-item h4 {
     color: #9dc183;
 }
-
 
 img, a img {
     border: none;
@@ -232,179 +238,6 @@ a h4:hover{
 }
 
 
-
-
-
-
-
-/*
-
-.main {
-    width: 100%;
-}
-
-
-
-.section-main-pictures {
-    list-style: none;
-    width: 100%;
-}
-
-.scholar {
-    display: block;
-    float: left;
-    border-radius: 3px;
-    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
-    width: 50%;
-    padding: 40px;
-}
-
-.scholar h2 {
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 63%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
-
-.tech {
-    display: block;
-    float: left;
-    border-radius: 3px;
-    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
-    width: 50%;
-    padding: 40px;
-}
-
-.tech h2 {
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 63%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
-
-.shortstories {
-    display: block;
-    float: left;
-    border-radius: 3px;
-    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
-    width: 50%;
-    padding: 40px;
-}
-
-.shortstories h2 {
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 63%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
-
-.reflections {
-    display: block;
-    float: left;
-    border-radius: 3px;
-    box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
-    width: 50%;
-    padding: 40px;
-}
-
-.reflections h2 {
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 63%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
-
-.main-photo {
-    width: 100%;
-    margin: 0;
-    overflow: hidden;
-    background-color: black;
-}
-
-.main-photo img {
-    opacity: 0.7;
-    width: 100%;
-    height: 440px;
-    transform: scale(1.15);
-    transition: transform 0.5s, opacity 0.5s;
-}
-
-.main-photo img:hover {
-    opacity: 1;
-    transform: opacity(1.03);
-}
-
-.main-photo-1 h2{
-    transition: color 1s ease;
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 30%;
-    right: auto;
-    top: 50%; 
-    bottom: auto;
-    text-align: center;
-}
-
-.main-photo img:hover ~ .main-photo-1 h2 {
-    color: rgba(76, 79, 88, 0.726);
-}
-
-.main-photo-2 h2{
-    transition: color 1s ease;
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 62%;
-    right: auto;
-    top: 50%; 
-    text-align: center;
-}
-
-.main-photo img:hover ~ .main-photo-2 h2 {
-    color: rgba(195, 197, 204, 0.726);
-}
-
-
-.main-photo-3 h2{
-    position: absolute;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
-    left: 32%;
-    right: auto;
-    top: 85%; 
-    text-align: center;
-}
-
-.main-photo img:hover ~ .main-photo-3 h2 {
-    color: rgba(195, 197, 204, 0.726);
-}
-
-
-.main-photo img:hover ~ .main-photo-4 h2 {
-    color: rgba(195, 197, 204, 0.726);
-}
-
-
 /*------------------------------------------*/
 /* BUTTONS */
 /*------------------------------------------*/
@@ -439,76 +272,6 @@ a h4:hover{
     background-color: #a1aab0; /* Find darker shaded colors through https://www.0to255.com/ */
 }
 
-/*------------------------------------------*/
-/* PUBLICATIONS PAGE */
-/*------------------------------------------*/
-
-.publication-header {
-    font-size: 30px;
-}
-
-.publication-header h1 {
-    padding-top: 2%;
-    padding-left: 5%;
-}
-
-.publication-list {
-    margin-left: 5%;
-}
-
-.publication-list li {
-    margin-top: 1%;
-    margin-bottom: 1%;
-}
-
-/*------------------------------------------*/
-/* TECHY THINGS PAGE */
-/*------------------------------------------*/
-
-
-.tech-header {
-    font-size: 30px;
-}
-
-.tech-header h1 {
-    padding-top: 2%;
-    padding-left: 5%;
-}
-
-.tech-scrum {
-    display: block;
-    float: left;
-    margin-left: 10%;
-    margin-top: 2%;
-    line-height: 250%;
-    width: 40%;
-}
-
-.tech-scrum img {
-    margin-top: 2%;
-}
-
-.tech-rstudio-trainer img {
-    margin-top: 17%;
-}
-
-.tech-scrum h4{
-    margin-bottom: 3%;
-}
-
-
-.tech-rstudio-trainer {
-    display: block;
-    float: right;
-    margin-right: 10%;
-    margin-top: 2%;
-    line-height: 250%;
-    width: 40%;
-}
-
-.tech-rstudio-trainer h4 {
-    margin-bottom: 3%;
-}
 
 
 /*------------------------------------------*/

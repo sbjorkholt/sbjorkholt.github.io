@@ -7,17 +7,16 @@
 
     header img{
         margin-left: 20%;
-        margin-right: 30%;
-        height: 100px;
+        margin-right: 20%;
+        height: 140px;
     }
 
     .social-links {
-        list-style: none;
-        margin-left: 30%;
-        font-size: 18px;
-        word-spacing: 10px;
-        color: #fff;
-        display: block;
+        font-size: 15px;
+    }
+
+    .grid-item {
+        padding: 25px;
     }
 
 }
@@ -27,17 +26,22 @@
 @media only screen and (max-width: 767px) {
     
     .banner-2 {
-        font-size: 14px;
+        font-size: 10px;
     }
 
     header img{
         margin-left: 20%;
-        margin-right: 30%;
-        height: 60px;
+        margin-right: 20%;
+        height: 100px;
     }
 
     .social-links {
         font-size: 14px;
+    }
+
+    
+    .grid-item {
+        padding: 15px;
     }
 
 }
@@ -52,11 +56,15 @@
     header img{
         margin-left: 20%;
         margin-right: 10%;
-        height: 60px;
+        height: 40px;
     }
 
     .social-links {
         font-size: 10px;
+    }
+    
+    .grid-item {
+        padding: 10px;
     }
 
 }
