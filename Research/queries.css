@@ -14,6 +14,10 @@
       .navbar li {
         margin-left: 15%;
       }
+      
+      h1{
+        font-size: 14px;
+      }
     
 }
 
@@ -49,6 +53,9 @@
         padding-top: 90%;
       }
 
+      h1{
+        font-size: 13px;
+      }
 }
 
 /* Small phones: 0px to 480px */
@@ -66,11 +73,15 @@
         margin-left: 10%;
       }
 
+      h1{
+        font-size: 9px;
+      }
+
       #dissertation{
         font-size: 6px;
     }
 
-    #papers{
+      #papers{
         font-size: 6px;
     }
 

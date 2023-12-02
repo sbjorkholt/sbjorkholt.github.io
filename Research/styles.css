@@ -11,7 +11,7 @@ body {
   margin-left: 20%;
   margin-right: 20%;
   font: 500 0.8em georgia, serif;
-  line-height: 200%
+  line-height: 150%
 }
 
 /**************************************************************
@@ -142,15 +142,13 @@ h1 {
   font: 1000 1.9em georgia, serif;
   color: #131313;  
   padding-top: 40px;
-  font-size: x-large;
+  font-size: 18px;
 }
 
 h3 {
   font: 600 1.1em georgia, serif;
-  font-size: medium;
   padding: 8%;
 }
-
 
 .content {
   margin: 0;
