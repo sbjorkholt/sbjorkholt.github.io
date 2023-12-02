@@ -5,14 +5,19 @@ html{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  text-rendering: optimizeLegibility;
 }
 
 body {
   text-align: left;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
   font: 500 0.8em georgia, serif;
   line-height: 200%
+}
+
+.row {
+  max-width: 1140px;
 }
 
 /**************************************************************
@@ -25,7 +30,7 @@ header {
   background-position: center;
   height: 70px;
   text-align: center;
-  padding-top: 10px;
+  padding-top: 2%;
 }
 
 /**************************************************************
@@ -33,27 +38,31 @@ header {
  **************************************************************/
 
 .picture {
-  width: 30%;
   display: block;
-  margin: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 img {
-  width:  400px;
-  height: 400px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width:  300px;
+  height: 300px; 
   border: #28361862 solid 1px;
 }
 
 .heading {
-  text-align: right;
   width: 50%;
-  margin-top: 10px;
+  margin-top: 2%;
 }
 
 .heading ul h3 {
-  line-height: 30px;
+  line-height: 100%;
 }
 
 .text {
@@ -63,7 +72,7 @@ img {
 }
 
 .text ul p {
-  line-height: 30px;
+  line-height: 150%;
 }
 
 #teaching {
@@ -73,34 +82,27 @@ img {
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #283618 solid 1px;
   border-bottom: #283618 solid 1px;
-  padding-bottom: 20px;
-  height: 150px;
+  padding-bottom: 2%;
 }
 
 #teaching h3,
 #teaching p {
     display: inline;
     font-family: 'Open Sans', sans-serif;
+    font: 1em;
 }
 
 h1 {   
   clear: both;
   font: 1000 1.9em georgia, serif;
   color: #283618;  
-  padding-top: 40px;
+  padding-top: 5%;
   font-size: x-large;
 }
 
 h3 {
-  font: 600 1.1em georgia, serif;
-  font-size: medium;
-  padding: 20px;
+  padding: 2%;
 }
-
-p {
-  font-size: small;
-
- }
 
 .content {
   margin: 0;

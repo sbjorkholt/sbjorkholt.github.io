@@ -1,0 +1,90 @@
+
+/*Small tablets to big tablet: 768px to 1023px */
+
+@media only screen and (max-width: 1023px) {
+    .main-nav{
+        padding-top: 40px
+    }
+
+    .intro img{
+        width:71px;
+        height:100px;
+        border-radius:110px
+    }
+
+    .work_education{
+        max-width:800px;
+        width: 80%;
+      }
+
+    .technical_other{
+        max-width:800px;
+        width: 80%;
+      }
+
+    a, p, li, ul {
+        font-size: 1em;
+    }
+          
+}
+
+
+/* Small phones to small tablets: 481px to 767px */
+@media only screen and (max-width: 767px) {
+    
+    .main-nav{
+        padding-top: 30px
+    }
+
+    .intro img{
+        width:51px;
+        height:70px;
+        border-radius:90px
+    }
+
+    .work_education{
+        max-width:600px;
+        width: 80%;
+      }
+
+      .technical_other{
+        max-width:600px;
+        width: 80%;
+      }
+
+      a, p, li, ul {
+        font-size: 0.8em;
+    }
+
+}
+
+/* Small phones: 0px to 480px */
+@media only screen and (max-width: 480px) {
+
+    .main-nav{
+        padding-top: 30px
+    }
+
+    .intro img{
+        width:31px;
+        height:50px;
+        border-radius:60px
+    }
+
+    .work_education{
+        max-width:300px;
+        width:80%;
+      }
+
+    .technical_other{
+        max-width:300px;
+        width: 80%;
+      }
+
+      a, p, li, ul{
+        font-size: 0.5em;
+    }
+
+}
+
+
