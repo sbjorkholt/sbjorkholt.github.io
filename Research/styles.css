@@ -1,20 +1,15 @@
-/**************************************************************
-   AUTHOR:  Pat Heard (fullahead.org)
-   DATE:    2006.09.12 
-   PURPOSE: Styles the html elements
- **************************************************************/
-
 /* Forces horizontal scrollbar on in Mozilla */
 
 html,
 body {
   background-color: #F0EFEB;
+  text-rendering: optimizeLegibility;
 }
 
 body {
   text-align: left;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
   font: 500 0.8em georgia, serif;
   line-height: 200%
 }
@@ -32,12 +27,8 @@ body {
   padding-top: 10px;
 }
 
-.navbar {
-  height: 20px;
-}
-
 .nav-header {
-  font-size: medium;
+  font-size: 15px;
 }
 
 .navbar li {
@@ -45,6 +36,7 @@ body {
   display: block;
   margin-right: 2em;
   margin-left: 10%;
+  line-height: 150%
 }
 
 .navbar ul {
@@ -91,19 +83,18 @@ body {
 }
 
 .column2 ul:first-child{
-  padding-top: 100px;
+  padding-top: 50%;
 }
 
 #dissertation {
   display: flex;
   background-color: #F0EFEB;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 10%;
+  padding-right: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 5px;
-  height: 300px;
+  padding-bottom: 2%;
 }
 
 #dissertation h5,
@@ -115,13 +106,12 @@ body {
 #papers {
   display: flex;
   background-color: #F0EFEB;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 10%;
+  padding-right: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 10px;
-  height: 300px;
+  padding-bottom: 2%;
 }
 
 #papers h5,
@@ -133,13 +123,12 @@ body {
 #presentations {
   display: flex;
   background-color: #F0EFEB;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 10%;
+  padding-right: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;
-  padding-bottom: 10px;
-  height: 400px;
+  padding-bottom: 2%;
 }
 
 #presentations h5,
@@ -159,13 +148,9 @@ h1 {
 h3 {
   font: 600 1.1em georgia, serif;
   font-size: medium;
-  padding: 20px;
+  padding: 8%;
 }
 
-p {
-  font-size: small;
-
- }
 
 .content {
   margin: 0;
@@ -192,7 +177,7 @@ footer {
   background-image: linear-gradient(#98b5a7, white);
   background-size: cover;
   background-position: center;
-  height: 20px;
+  height: 10%;
 }
 
 /**************************************************************
