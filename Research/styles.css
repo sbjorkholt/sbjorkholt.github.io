@@ -118,8 +118,8 @@ body {
 #presentations {
   display: flex;
   background-color: #F0EFEB;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border-top: #3C5D29 solid 1px;
   border-bottom: #3C5D29 solid 1px;

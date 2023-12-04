@@ -2,16 +2,17 @@
 
 @media only screen and (max-width: 1023px) {
      .banner-2 {
-        font-size: 14px;
-    }
-
-    header img{
-        height: 140px;
+        font-size: 12px;
     }
 
     .social-links {
         font-size: 30px;
     }
+
+    .banner-3 img {
+        width: 80px;
+    } 
+
 }
 
 
@@ -22,13 +23,13 @@
         font-size: 12px;
     }
 
-    header img{
-        height: 300px;
-    }
-
     .social-links {
         font-size: 25px;
     }
+
+    .banner-3 img {
+        width: 60px;
+    } 
 
 }
 
@@ -39,14 +40,14 @@
         font-size: 12px;
     }
 
-    header img{
-        height: 200px;
-    }
-
     .social-links {
         font-size: 25px;
     }
 
+    
+    .banner-3 img {
+        width: 40px;
+    }
 
 }
 
