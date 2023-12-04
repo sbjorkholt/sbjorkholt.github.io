@@ -22,13 +22,8 @@ body {
   background-color: #3c5d2929;
   background-size: cover;
   background-position: center;
-  height: 7%;
+  height: 8%;
   text-align: center;
-  padding-top: 10px;
-}
-
-.nav-header {
-  font-size: 15px;
 }
 
 .navbar li {
