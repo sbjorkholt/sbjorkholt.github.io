@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hey | Solveig Bjørholt</title>
+    <link>http://localhost:4321/tags/hey/</link>
+      <atom:link href="http://localhost:4321/tags/hey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hey</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>Hey</title>
+      <link>http://localhost:4321/tags/hey/</link>
+    </image>
+    
+    <item>
+      <title>Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics</title>
+      <link>http://localhost:4321/publication/journal-article/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <description>&lt;p&gt;The full code to assemble the StanDat database is available on &lt;a href=&#34;https://github.com/sbjorkholt/iso-standards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

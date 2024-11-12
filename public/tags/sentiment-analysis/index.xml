@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment Analysis | Solveig Bjørholt</title>
+    <link>//localhost:4321/tags/sentiment-analysis/</link>
+      <atom:link href="//localhost:4321/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sentiment Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>Sentiment Analysis</title>
+      <link>//localhost:4321/tags/sentiment-analysis/</link>
+    </image>
+    
+    <item>
+      <title>The drama is in the ink: Conflict in written parliamentary questions</title>
+      <link>//localhost:4321/publication/question_conflict/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/question_conflict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling | Solveig Bjørholt</title>
+    <link>//localhost:4321/tags/storytelling/</link>
+      <atom:link href="//localhost:4321/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Storytelling</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>Storytelling</title>
+      <link>//localhost:4321/tags/storytelling/</link>
+    </image>
+    
+    <item>
+      <title>Undefined Story</title>
+      <link>//localhost:4321/project/shortstories/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/shortstories/</guid>
+      <description>&lt;p&gt;Short stories written by me.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Analysis | Solveig Bjørholt</title>
+    <link>//localhost:4321/tags/network-analysis/</link>
+      <atom:link href="//localhost:4321/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>Network Analysis</title>
+      <link>//localhost:4321/tags/network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics</title>
+      <link>//localhost:4321/publication/standat/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/standat/</guid>
+      <description>&lt;p&gt;The full code to assemble the StanDat database is available on &lt;a href=&#34;https://github.com/sbjorkholt/iso-standards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relational capital. Do board networks exist and are they valuable?</title>
+      <link>//localhost:4321/publication/boardnetworks/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/boardnetworks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

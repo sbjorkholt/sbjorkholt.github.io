@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantitative Methods | Solveig Bjørholt</title>
+    <link>//localhost:4321/tags/quantitative-methods/</link>
+      <atom:link href="//localhost:4321/tags/quantitative-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantitative Methods</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>Quantitative Methods</title>
+      <link>//localhost:4321/tags/quantitative-methods/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Statistics and Methods</title>
+      <link>//localhost:4321/teaching/stv1020/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/teaching/stv1020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
