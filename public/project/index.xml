@@ -5,7 +5,7 @@
     <link>//localhost:4321/project/</link>
       <atom:link href="//localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
       <title>Projects</title>
@@ -13,19 +13,19 @@
     </image>
     
     <item>
-      <title>Medium</title>
-      <link>//localhost:4321/project/blog/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/blog/</guid>
-      <description>&lt;p&gt;My blog on Medium where I write about anything not fiction or academic.&lt;/p&gt;</description>
+      <title>Undefined Story</title>
+      <link>//localhost:4321/project/shortstories/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/shortstories/</guid>
+      <description>&lt;p&gt;Short stories written by me.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Undefined Story</title>
-      <link>//localhost:4321/project/shortstories/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/shortstories/</guid>
-      <description>&lt;p&gt;Short stories written by me.&lt;/p&gt;</description>
+      <title>Medium</title>
+      <link>//localhost:4321/project/blog/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/blog/</guid>
+      <description>&lt;p&gt;My blog on Medium where I write about anything not fiction or academic.&lt;/p&gt;</description>
     </item>
     
     <item>

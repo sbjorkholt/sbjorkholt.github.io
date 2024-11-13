@@ -5,7 +5,7 @@
     <link>//localhost:4321/tags/blog/</link>
       <atom:link href="//localhost:4321/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
       <title>Blog</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Medium</title>
       <link>//localhost:4321/project/blog/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/project/blog/</guid>
       <description>&lt;p&gt;My blog on Medium where I write about anything not fiction or academic.&lt;/p&gt;</description>
     </item>

@@ -64,18 +64,19 @@ education:
 first_name: Solveig
 highlight_name: true
 interests:
-- International relations
 - International private governance
 - Standards and standardization
+- Depoliticization
 - Web scraping
+- Network analysis
 - Language models
 languages:
 - name: English
-  percent: 100
+  percent: Fluent
 - name: Norwegian
-  percent: 100
+  percent: Fluent
 - name: German
-  percent: 25
+  percent: Medium
 last_name: Bjørkholt
 #name_pronunciation: Solveig Bjørkholt
 organizations:
@@ -100,7 +101,7 @@ profiles:
   url: https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=no
 # - icon: academicons/orcid
 #   url: https://orcid.org/
-#role: Chief Scientist
+role: PhD Candidate
 skills:
 - items:
   - description: ""
@@ -121,7 +122,7 @@ skills:
   items:
   - description: ""
     icon: person-simple-walk
-    name: Hiking
+    name: Hiking and skiing
     percent: 60
   - description: ""
     icon: sun
@@ -163,4 +164,6 @@ work:
 
 ## About Me
 
-I am a PhD Candidate at the University of Oslo. My research area includes international private governance, specifically with a view on international standards. I also work actively with data science methods such as web scraping and language modelling. 
+I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs advanced data science techniques, including network analysis, web scraping, and language modeling.
+
+I am passionate about teaching quantitative methods to social scientists, and I enjoy working with both students and public sector employees.

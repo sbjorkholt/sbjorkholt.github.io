@@ -14,24 +14,26 @@ sections:
     background:
       color: black
       image:
-        filename: stacked-peaks.svg
+        filename: image.jpg
         filters:
           brightness: 1
         parallax: false
-        position: center
+        position: right
         size: cover
     css_class: dark
-#- block: markdown
-#  content:
-#    subtitle: ""
-#    text: "Use this area to speak to your mission. I'm a research scientist in the
-#      Moonshot team at DeepMind. I blog about machine learning, deep learning, and
-#      moonshots.\n\nI apply a range of qualitative and quantitative methods to comprehensively
-#      investigate the role of science and technology in the economy.\n\nPlease reach
-#      out to collaborate \U0001F603"
- #   title: "\U0001F4DA My Research"
-#  design:
-#    columns: "1"
+
+- block: markdown
+  content:
+    subtitle: ""
+    text: |
+      StanDat offers comprehensive access to data on international standards. The database is composed of information gathered from the webpages of the International Organization for Standardization (ISO).
+      
+      [![The StanDat Database](./publication/standat/featured.png)](https://shiny.uio.no/standat/)
+      
+    title: "📊 The StanDat Database"
+  design:
+    columns: "1"
+
 # - block: collection
 #   content:
 #     filters:
@@ -43,6 +45,7 @@ sections:
 #     columns: 2
 #     view: article-grid
 #   id: papers
+
 - block: collection
   content:
     filters:
@@ -54,6 +57,7 @@ sections:
   design:
     view: citation
   id: papers
+
 - block: collection
   content:
     filters:
