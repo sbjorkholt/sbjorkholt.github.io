@@ -68,7 +68,6 @@ interests:
 - Standards and standardization
 - Depoliticization
 - Web scraping
-- Network analysis
 - Language models
 languages:
 - name: English
