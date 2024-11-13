@@ -1,20 +1,20 @@
 ---
-date: "2023-07-05"
+date: "2024-09-01"
 image:
-  caption: Embed rich media such as videos and LaTeX math
+  caption: 
 math: false
-summary: STV1020
+summary: Introductory courses to quantiative methods for social scientists.
 tags:
 - Quantitative methods
 title: Introduction to Statistics and Methods
 type: docs
 ---
 
-I have held multiple lectures in introductory courses for bachelor students into statistics and quantitative methods. I have held these courses at the University of Oslo, Oslo New University College and the University of South-Eastern Norway.
+I have delivered multiple lectures in introductory statistics and quantitative methods courses for bachelor students. These courses were taught at the University of Oslo, Oslo New University College, and the University of South-Eastern Norway.
 
-These courses rely on the book *Fundamentals of Political Science Research* by Paul M. Kellstedt and Guy D. Whitten.
+The courses are based on the book *Fundamentals of Political Science Research* by Paul M. Kellstedt and Guy D. Whitten.
 
-The contents of the course are:
+Course topics include:
 
  - Introduction to social science methods
  - Causal inference

@@ -75,7 +75,7 @@ languages:
 - name: Norwegian
   percent: Fluent
 - name: German
-  percent: Medium
+  percent: Beginner
 last_name: Bjørkholt
 #name_pronunciation: Solveig Bjørkholt
 organizations:
@@ -163,6 +163,6 @@ work:
 
 ## About Me
 
-I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs data science techniques, including network analysis, web scraping, and language modeling.
+I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs data science techniques such as network analysis, web scraping and language modeling.
 
-I am passionate about teaching quantitative methods to social scientists, and I enjoy working with both students and public sector employees.
+I am passionate about teaching data science methods to social scientists, and I enjoy working with both students and public sector employees.
