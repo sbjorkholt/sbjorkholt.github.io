@@ -34,28 +34,20 @@
     </item>
     
     <item>
-      <title>Medium</title>
-      <link>//localhost:4321/project/blog/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/blog/</guid>
-      <description>&lt;p&gt;My blog on Medium where I write about anything not fiction or academic.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Undefined Story</title>
-      <link>//localhost:4321/project/shortstories/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/shortstories/</guid>
-      <description>&lt;p&gt;Short stories written by me.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics</title>
       <link>//localhost:4321/publication/standat/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/publication/standat/</guid>
       <description>&lt;p&gt;The full code to assemble the StanDat database is available on &lt;a href=&#34;https://github.com/sbjorkholt/iso-standards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Undefined Story</title>
+      <link>//localhost:4321/project/shortstories/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/shortstories/</guid>
+      <description>&lt;p&gt;Short stories written by me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,6 +64,14 @@
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/publication/question_conflict/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Medium</title>
+      <link>//localhost:4321/project/blog/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/blog/</guid>
+      <description>&lt;p&gt;My blog on Medium where I write about anything not fiction or academic.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
 
 
 
-&lt;div id=&#34;chart-839125674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-821396745&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -314,7 +314,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-839125674&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-821396745&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

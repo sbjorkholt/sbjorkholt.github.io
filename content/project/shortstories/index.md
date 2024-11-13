@@ -1,5 +1,5 @@
 ---
-date: "2025-01-01"
+date: "2024-11-01"
 external_link: https://undefinedstoryblog.wordpress.com/
 tags:
 - Short stories

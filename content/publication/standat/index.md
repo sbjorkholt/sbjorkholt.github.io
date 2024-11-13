@@ -19,7 +19,7 @@ publication: '*Political Science Research and Methods*'
 #publication_short: "PSRM"
 publication_types:
 - article-journal
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
