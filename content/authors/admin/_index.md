@@ -164,6 +164,6 @@ work:
 
 ## About Me
 
-I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs advanced data science techniques, including network analysis, web scraping, and language modeling.
+I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs data science techniques, including network analysis, web scraping, and language modeling.
 
 I am passionate about teaching quantitative methods to social scientists, and I enjoy working with both students and public sector employees.
