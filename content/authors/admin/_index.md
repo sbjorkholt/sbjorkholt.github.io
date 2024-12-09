@@ -40,8 +40,8 @@ education:
   summary: |
     Thesis on _Financialization and Labour in an Age of Inequality_. Supervised by [Carl Henrik Knutsen](https://www.sv.uio.no/isv/personer/vit/carlhk/).
 - area: Bachelor in Political Science
-  date_end: "2013-06-30"
-  date_start: "2016-08-01"
+  date_end: "2016-06-30"
+  date_start: "2013-08-01"
   institution: University of Oslo
   # summary: |
   #   GPA: 3.8/4.0
