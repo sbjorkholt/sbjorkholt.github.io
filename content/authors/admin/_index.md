@@ -147,7 +147,7 @@ work:
     Dissertation articles:
     - Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics
     - Legitimation strategies in transnational private governance: The case of the International Organization for Standardization
-    - Technology Diffusion Through Standardization
+    - Geopolitics in International Standardization Negotiations: Outward Technology Diffusion and Technological Sovereignty
 - company_logo: ""
   company_name: Statistics Norway
   company_url: ""
