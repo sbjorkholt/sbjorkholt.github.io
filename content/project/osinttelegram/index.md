@@ -2,7 +2,7 @@
 date: "2024-01-01"
 external_link: https://solveig.shinyapps.io/prototype/
 tags:
-- ShinyApp
+- Hackathon
 - Programming
 - Open Source Intelligence
 title: 'OSINT Telegram'

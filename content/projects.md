@@ -1,5 +1,5 @@
 ---
-date: "2024-05-19"
+date: "2025-05-06"
 design:
   spacing: 5rem
 sections:
@@ -8,11 +8,11 @@ sections:
     filters:
       folders:
       - project
-    text: I enjoy both writing and programming. Here are some of my projects.
+    text: 
     title: Projects
   design:
-    columns: 3
-    fill_image: false
+    columns: 4
+    fill_image: true
     view: article-grid
 title: Projects
 type: landing

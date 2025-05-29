@@ -34,6 +34,23 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>//localhost:4321/projects/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of International Standardization</title>
+      <link>//localhost:4321/project/dissertation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/dissertation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;The_Politics_of_International_Standardization.pdf&#34;&gt;Download the dissertation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics</title>
       <link>//localhost:4321/publication/standat/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
@@ -70,14 +87,6 @@
 &lt;li&gt;Regression assumptions&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>//localhost:4321/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/projects/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -318,7 +327,7 @@
 
 
 
-&lt;div id=&#34;chart-764293158&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-567128493&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -336,7 +345,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-764293158&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-567128493&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

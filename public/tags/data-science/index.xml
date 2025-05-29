@@ -17,11 +17,12 @@
       <link>//localhost:4321/teaching/isssv1337/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/isssv1337/</guid>
-      <description>&lt;p&gt;I established the course Politicial Data Science Hackathon together with Alex Moltzau in 2022. The course was held six weeks over summer at the International Summer School in 2022 and 2023.&lt;/p&gt;
-&lt;p&gt;In this course, we collaborated with organizations from work life. They provided a problem statement based on a real-life challenge in their organization, and the students learned data science techniques to work on the problem over the summer. In the end, they wrote a report and held a presentation.&lt;/p&gt;
-&lt;p&gt;This course attracted students from various disciplines, allowing students to work in cross-disciplinary teams. This led us to also teach some fundamentals about how to work together in diverse teams to learn from and utilize each others&amp;rsquo; strengths.&lt;/p&gt;
-&lt;p&gt;Substantially, students learn fundamental data science techniques such as fundamental R programming with tidyverse, data wrangling, descriptive statistics, data collection, visualization, text analysis, and supervised and unsupervised machine learning. Importantly, they learn why these techniques are useful by applying them to a case.&lt;/p&gt;
-&lt;p&gt;I have been course convener and lecturer in both 2022 and 2023, lecturing together with Eric Nilsen, Jonas W. Schmid, Sondre Elstad and Louisa Boulaziz.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;This course integrates team-based problem-solving with real-world work-life cases provided by stakeholders from industry and public sector. Participants also gain hands-on experience with data science methods.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Alex Moltzau and I established this course in 2022, which has been held over six weeks during the International Summer School in both 2022 and 2023.&lt;/p&gt;
+&lt;p&gt;In this course, we collaborated with various organizations that provided real-life challenges for our students to address. Students learned data science techniques to tackle these problems, ultimately writing reports and presenting their findings.&lt;/p&gt;
+&lt;p&gt;The course attracted students from diverse disciplines, fostering cross-disciplinary teamwork. To maximize the benefits of this diversity, we also taught foundational skills for effective collaboration in varied teams.&lt;/p&gt;
+&lt;p&gt;Students gained practical experience in fundamental data science techniques, including R programming with tidyverse, data wrangling, descriptive statistics, data collection, visualization, text analysis, and supervised and unsupervised machine learning. They applied these techniques to real-world cases, enabling them to understand the utility of these techniques in practical scenarios.&lt;/p&gt;
+&lt;p&gt;As the course convener and lecturer, I have taught both years alongside Eric Nilsen, Jonas W. Schmid, Sondre Elstad, and Louisa Boulaziz.&lt;/p&gt;
 &lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/political_data_science_hackathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2023.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://shiny.uio.no/political_data_science_hackathon&#34;&gt;&lt;/iframe&gt;
 </description>

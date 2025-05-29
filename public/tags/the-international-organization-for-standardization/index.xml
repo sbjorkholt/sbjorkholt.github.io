@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The International Organization for Standardization | Solveig Bjørholt</title>
+    <link>//localhost:4321/tags/the-international-organization-for-standardization/</link>
+      <atom:link href="//localhost:4321/tags/the-international-organization-for-standardization/index.xml" rel="self" type="application/rss+xml" />
+    <description>The International Organization for Standardization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
+      <title>The International Organization for Standardization</title>
+      <link>//localhost:4321/tags/the-international-organization-for-standardization/</link>
+    </image>
+    
+    <item>
+      <title>The Politics of International Standardization</title>
+      <link>//localhost:4321/project/dissertation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/dissertation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;The_Politics_of_International_Standardization.pdf&#34;&gt;Download Dissertation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

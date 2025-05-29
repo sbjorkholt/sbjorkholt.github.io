@@ -17,9 +17,9 @@
       <link>//localhost:4321/teaching/stv2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/stv2022/</guid>
-      <description>&lt;p&gt;I shared course convening responsibilities and held half the lectures of the Big Text Data course with Martin Søyland in Autumn 2022. The course is taught in Norwegian.&lt;/p&gt;
-&lt;p&gt;The course teaches fundamentals within quantitative text analysis and language models, from gathering text data, parsing and preprocessing to models such as sentiment analysis, topic models and supervised learning.&lt;/p&gt;
-&lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2022.&lt;/p&gt;
+      <description>&lt;p&gt;In Autumn 2022, I co-convened and co-lectured the Big Text Data course with Martin Søyland.&lt;/p&gt;
+&lt;p&gt;This course covers the fundamentals of quantitative text analysis and language models. Topics include gathering, parsing, and preprocessing text data, as well as advanced techniques like sentiment analysis, topic modeling, and supervised learning.&lt;/p&gt;
+&lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2022. Please note that the course material is in Norwegian.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
