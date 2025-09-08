@@ -171,6 +171,7 @@ work:
     - Producing national statistics on Research and Development (R&D)
     - Founding and leading the department's Innovation Group
     - Coursing and teaching R programming
+    
 ---
 
 ## About Me
