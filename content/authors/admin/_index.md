@@ -70,7 +70,7 @@ interests:
 - The politics of technology
 - Standards and standardization
 - Depoliticization
-- Data science and machine learning
+- Computational social science
 languages:
 - name: English
   percent: Fluent
