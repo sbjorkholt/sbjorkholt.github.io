@@ -5,7 +5,7 @@
     <link>//localhost:4321/teaching/</link>
       <atom:link href="//localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:4321/media/icon_hu9275620438765660929.png</url>
       <title>Teaching</title>
@@ -15,11 +15,11 @@
     <item>
       <title>Introduction to Statistics and Methods</title>
       <link>//localhost:4321/teaching/stv1020/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/stv1020/</guid>
-      <description>&lt;p&gt;I have delivered multiple lectures in introductory statistics and quantitative methods courses for bachelor students. These courses were taught at the University of Oslo, Oslo New University College, and the University of South-Eastern Norway.&lt;/p&gt;
-&lt;p&gt;The courses are based on the book &lt;em&gt;Fundamentals of Political Science Research&lt;/em&gt; by Paul M. Kellstedt and Guy D. Whitten.&lt;/p&gt;
-&lt;p&gt;Course topics include:&lt;/p&gt;
+      <description>&lt;p&gt;I have held multiple lectures in introductory courses for bachelor students into statistics and quantitative methods. I have held these courses at the University of Oslo, Oslo New University College and the University of South-Eastern Norway.&lt;/p&gt;
+&lt;p&gt;These courses rely on the book &lt;em&gt;Fundamentals of Political Science Research&lt;/em&gt; by Paul M. Kellstedt and Guy D. Whitten.&lt;/p&gt;
+&lt;p&gt;The contents of the course are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction to social science methods&lt;/li&gt;
 &lt;li&gt;Causal inference&lt;/li&gt;
@@ -39,12 +39,11 @@
       <link>//localhost:4321/teaching/isssv1337/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/isssv1337/</guid>
-      <description>&lt;p&gt;&lt;em&gt;This course integrates team-based problem-solving with real-world work-life cases provided by stakeholders from industry and public sector. Participants also gain hands-on experience with data science methods.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Alex Moltzau and I established this course in 2022, which has been held over six weeks during the International Summer School in both 2022 and 2023.&lt;/p&gt;
-&lt;p&gt;In this course, we collaborated with various organizations that provided real-life challenges for our students to address. Students learned data science techniques to tackle these problems, ultimately writing reports and presenting their findings.&lt;/p&gt;
-&lt;p&gt;The course attracted students from diverse disciplines, fostering cross-disciplinary teamwork. To maximize the benefits of this diversity, we also taught foundational skills for effective collaboration in varied teams.&lt;/p&gt;
-&lt;p&gt;Students gained practical experience in fundamental data science techniques, including R programming with tidyverse, data wrangling, descriptive statistics, data collection, visualization, text analysis, and supervised and unsupervised machine learning. They applied these techniques to real-world cases, enabling them to understand the utility of these techniques in practical scenarios.&lt;/p&gt;
-&lt;p&gt;As the course convener and lecturer, I have taught both years alongside Eric Nilsen, Jonas W. Schmid, Sondre Elstad, and Louisa Boulaziz.&lt;/p&gt;
+      <description>&lt;p&gt;I established the course Politicial Data Science Hackathon together with Alex Moltzau in 2022. The course was held six weeks over summer at the International Summer School in 2022 and 2023.&lt;/p&gt;
+&lt;p&gt;In this course, we collaborated with organizations from work life. They provided a problem statement based on a real-life challenge in their organization, and the students learned data science techniques to work on the problem over the summer. In the end, they wrote a report and held a presentation.&lt;/p&gt;
+&lt;p&gt;This course attracted students from various disciplines, allowing students to work in cross-disciplinary teams. This led us to also teach some fundamentals about how to work together in diverse teams to learn from and utilize each others&amp;rsquo; strengths.&lt;/p&gt;
+&lt;p&gt;Substantially, students learn fundamental data science techniques such as fundamental R programming with tidyverse, data wrangling, descriptive statistics, data collection, visualization, text analysis, and supervised and unsupervised machine learning. Importantly, they learn why these techniques are useful by applying them to a case.&lt;/p&gt;
+&lt;p&gt;I have been course convener and lecturer in both 2022 and 2023, lecturing together with Eric Nilsen, Jonas W. Schmid, Sondre Elstad and Louisa Boulaziz.&lt;/p&gt;
 &lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/political_data_science_hackathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2023.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://shiny.uio.no/political_data_science_hackathon&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -55,9 +54,9 @@
       <link>//localhost:4321/teaching/stv2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/stv2022/</guid>
-      <description>&lt;p&gt;In Autumn 2022, I co-convened and co-lectured the Big Text Data course with Martin Søyland.&lt;/p&gt;
-&lt;p&gt;This course covers the fundamentals of quantitative text analysis and language models. Topics include gathering, parsing, and preprocessing text data, as well as advanced techniques like sentiment analysis, topic modeling, and supervised learning.&lt;/p&gt;
-&lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2022. Please note that the course material is in Norwegian.&lt;/p&gt;
+      <description>&lt;p&gt;I shared course convening responsibilities and held half the lectures of the Big Text Data course with Martin Søyland in Autumn 2022. The course is taught in Norwegian.&lt;/p&gt;
+&lt;p&gt;The course teaches fundamentals within quantitative text analysis and language models, from gathering text data, parsing and preprocessing to models such as sentiment analysis, topic models and supervised learning.&lt;/p&gt;
+&lt;p&gt;Link to the &lt;a href=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course book&lt;/a&gt; for 2022.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;https://shiny.uio.no/content/1cd1d031-ddef-4e6d-855e-87e3bedc5fd8/notatbok.html#introduksjon&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
@@ -67,12 +66,12 @@
       <link>//localhost:4321/teaching/ideathon/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/teaching/ideathon/</guid>
-      <description>&lt;p&gt;In 2022, together with Alex Moltzau, I organized an Ideathon for the Norwegian ministries.&lt;/p&gt;
-&lt;p&gt;During this event, course participants were grouped into teams to address existing challenges within the ministries. We gathered these challenges directly from employees, formulating them into problem statements for the participants to tackle.&lt;/p&gt;
-&lt;p&gt;We taught techniques for idea generation and agile group work, then supervised the teams as they developed innovative solutions. The Ideathon featured two external speakers who shared their experiences of overcoming challenges in the public sector, providing inspiration to the participants.&lt;/p&gt;
-&lt;p&gt;On the final day, each team presented their solutions, and the participants voted to select the winning team.&lt;/p&gt;
+      <description>&lt;p&gt;In 2022, I arranged an Ideathon for the Norwegian ministries together with Alex Moltzau.&lt;/p&gt;
+&lt;p&gt;In this Ideathon, we let course participants work in teams to find solutions to exisitng challenges within the ministries.&lt;/p&gt;
+&lt;p&gt;We collected challenges from employees and made problem statements out of them. Putting the Ideathon participants in teams, we taught techniques for idea generation and agile group work. Then, we supervised the teams as they worked on finding novel solutions the given challenges.
+Two externals were invited in to hold inspiring talks about how they solved challenges in the public sector. On the final day, each team presented their solution to the others, and the participants voted forth one winner team.&lt;/p&gt;
 &lt;br&gt;
-Please note: The slides are in Norwegian.
+&lt;p&gt;The slides are in Norwegian.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;Day1.pdf&#34;&gt;Slides for Day 1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;Day2.pdf&#34;&gt;Slides for Day 2&lt;/a&gt;&lt;/p&gt;
 </description>

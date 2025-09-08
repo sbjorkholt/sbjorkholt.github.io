@@ -1,12 +1,5 @@
 ---
 awards:
-- awarder: Posit
-  date: "2020-05-01"
- # icon: posit
-  #summary: |
-  #  Certified RStudio trainer following coursing and tests.
-  title: Certified RStudio trainer
-  url: https://education.rstudio.com/trainers/people/bjorkholt+solveig/
 - awarder: University of South-Eastern Norway (USN)
   date: "2020-04-01"
   #icon: apple
@@ -30,15 +23,24 @@ awards:
   title: Oslo Legal Hackathon First Place
   #url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
+- area: Doctor in Political Science
+  button: 
+    text: Read Thesis
+    url: /project/The_Politics_of_International_Standardization.pdf
+    date_end: "2021-08-01"
+  date_start: "2025-08-01"
+  institution: University of Oslo
+  summary: |
+    Thesis on _The Politics of International Standardization_. 
 - area: Master in Political Science
   button:
     text: Read Thesis
-    url: https://www.duo.uio.no/handle/10852/63957
+    url: /project/Master_Bjorkholt.pdf
   date_end: "2018-06-30"
   date_start: "2016-08-01"
   institution: University of Oslo
   summary: |
-    Thesis on _Financialization and Labour in an Age of Inequality_. Supervised by [Carl Henrik Knutsen](https://www.sv.uio.no/isv/personer/vit/carlhk/).
+    Thesis on _Financialization and Labour in an Age of Inequality_. 
 - area: Bachelor in Political Science
   date_end: "2016-06-30"
   date_start: "2013-08-01"
@@ -65,10 +67,10 @@ first_name: Solveig
 highlight_name: true
 interests:
 - International private governance
+- The politics of technology
 - Standards and standardization
 - Depoliticization
-- Web scraping
-- Language models
+- Data science and machine learning
 languages:
 - name: English
   percent: Fluent
@@ -138,20 +140,30 @@ superuser: true
 title: Solveig Bjørkholt
 work:
 - company_logo: ""
-  company_name: University of Oslo
+  company_name: Statistics Norway
   company_url: ""
   date_end: ""
+  date_start: "2025-08-01"
+  position: Senior Adviser
+  summary: |
+    Responsibilities include:
+     - Developing statistics in Technology, Innovation, R&D, and Business Dynamics
+     - Supporting the transition to data science, machine learning, and AI methods
+- company_logo: ""
+  company_name: University of Oslo
+  company_url: ""
+  date_end: "2025-08-01"
   date_start: "2021-05-01"
   position: PhD Candidate
   summary: |-
     Dissertation articles:
     - Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics
-    - Legitimation strategies in transnational private governance: The case of the International Organization for Standardization
-    - Geopolitics in International Standardization Negotiations: Outward Technology Diffusion and Technological Sovereignty
+    - Legitimation Strategies of Transnational Private Institutions: Evidence from the International Organization for Standardization
+    - Technological Sovereignty in International Standardization: Patterns of Strategic Standardization and Geopolitical Rivalry
 - company_logo: ""
   company_name: Statistics Norway
   company_url: ""
-  date_end: ""
+  date_end: "2025-08-01"
   date_start: "2019-05-01"
   position: Senior Executive
   summary: |
@@ -163,6 +175,6 @@ work:
 
 ## About Me
 
-I am a PhD Candidate at the University of Oslo, specializing in international private governance with a focus on international standards. My research employs data science techniques such as network analysis, web scraping and language modeling.
-
-I am passionate about teaching data science methods to social scientists, and I enjoy working with both students and public sector employees.
+I am a researcher and data scientist at Statistics Norway, where I work on innovation, R&D, and business dynamics. 
+Trained as a political scientist, with a PhD on international governance and standards, I combine domain expertise with methods from data science, including network analysis, text modeling, and web scraping. 
+I also enjoy teaching these methods to students and practitioners in the public sector.

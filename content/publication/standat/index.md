@@ -29,7 +29,7 @@ tags:
  - Webscraping
  - Network analysis
 title: 'Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics'
-url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HA8HFW
+url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HA8HFW&version=DRAFT
 url_dataset: "https://shiny.uio.no/standat/"
 url_pdf: "https://github.com/sbjorkholt/iso-standards/blob/main/StanDatPaper.pdf"
 # url_poster: ""
