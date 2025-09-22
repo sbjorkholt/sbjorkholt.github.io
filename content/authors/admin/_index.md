@@ -86,10 +86,10 @@ organizations:
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:solveig.bjorkholt@stv.uio.no
-- icon: document
-  label: UiO webpage
-  url: https://www.sv.uio.no/isv/personer/vit/solvebjo/
+  url: mailto:solveig.bjorkholt@ssb.no
+#- icon: document
+#  label: UiO webpage
+#  url: https://www.sv.uio.no/isv/personer/vit/solvebjo/
 - icon: brands/x
   url: https://x.com/sunny36912
 #- icon: brands/instagram

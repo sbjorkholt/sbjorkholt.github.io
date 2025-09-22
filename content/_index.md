@@ -28,7 +28,7 @@ sections:
     text: |
       StanDat offers comprehensive access to data on international standards. The database is composed of information gathered from the webpages of the International Organization for Standardization (ISO).
       
-      [![The StanDat Database](./publication/standat/featured.png)](https://shiny.uio.no/standat/)
+      [![The StanDat Database](./publication/standat/featured.png)](https://solveig.shinyapps.io/standat/)
       
     title: "📊 The StanDat Database"
   design:

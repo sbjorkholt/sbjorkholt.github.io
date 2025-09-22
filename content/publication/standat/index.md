@@ -11,7 +11,7 @@ date: "2024-11-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: The [StanDat Database]('https://shiny.uio.no/standat/')
+  caption: The [StanDat Database]('https://solveig.shinyapps.io/standat/')
   focal_point: ""
   preview_only: false
 projects: []
@@ -30,7 +30,7 @@ tags:
  - Network analysis
 title: 'Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics'
 url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HA8HFW&version=DRAFT
-url_dataset: "https://shiny.uio.no/standat/"
+url_dataset: "https://solveig.shinyapps.io/standat/"
 url_pdf: "https://github.com/sbjorkholt/iso-standards/blob/main/StanDatPaper.pdf"
 # url_poster: ""
 # url_project: ""
