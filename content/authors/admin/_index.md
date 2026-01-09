@@ -78,10 +78,10 @@ languages:
   percent: Fluent
 - name: German
   percent: Beginner
-last_name: Bjørkholt
-#name_pronunciation: Solveig Bjørkholt
+last_name: BjC8rkholt
+#name_pronunciation: Solveig BjC8rkholt
 organizations:
-- name: University of Oslo
+- name: Statistics Norway
 #  url: https://www.uio.no/english/
 profiles:
 - icon: at-symbol
@@ -102,7 +102,7 @@ profiles:
   url: https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=no
 # - icon: academicons/orcid
 #   url: https://orcid.org/
-role: PhD Candidate
+role: Senior Advisor
 skills:
 - items:
   - description: ""
@@ -135,9 +135,9 @@ skills:
     percent: 80
   name: Hobbies
 # status:
-#   icon: ☕️
+#   icon: bo8
 superuser: true
-title: Solveig Bjørkholt
+title: Solveig BjC8rkholt
 work:
 - company_logo: ""
   company_name: Statistics Norway
@@ -147,7 +147,7 @@ work:
   position: Senior Adviser
   summary: |
     Responsibilities include:
-     - Developing statistics in Technology, Innovation, R&D, and Business Dynamics
+     - Developing statistics and produce research related to Technology, Innovation, R&D, and Business Dynamics
      - Supporting the transition to data science, machine learning, and AI methods
 - company_logo: ""
   company_name: University of Oslo

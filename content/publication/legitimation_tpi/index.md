@@ -3,35 +3,32 @@ abstract: This article presents an original database on international standards,
     standardization and trade, as demonstrated in this article. The creation of StanDat aims to stimulate further research into the domain of standards. Moreover, by exemplifying data collection and dissemination techniques 
     applicable to investigating less-explored subjects in the social sciences, it serves as a model for gathering, systematizing and sharing data in areas where information is plentiful yet not readily accessible for research.
 # author_notes:
-# - Equal contribution
-# - Equal contribution
 authors:
 - admin
-date: "2024-11-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 featured: true
-image:
-  caption: The [StanDat Database]('https://solveig.shinyapps.io/standat/')
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: The [StanDat Database]('https://solveig.shinyapps.io/standat/')
+#  focal_point: ""
+#  preview_only: false
 projects: []
-publication: '*Political Science Research and Methods*'
+publication: '*Regulation & Governance*'
 #publication_short: "PSRM"
 publication_types:
 - article-journal
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2026-03-01T00:00:00Z"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
  - International standardization
- - Database
- - Webscraping
- - Network analysis
-title: 'Presenting the StanDat Database on International Standards: Improving Data Accessibility on Marginal Topics'
-url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HA8HFW&version=DRAFT
-url_dataset: "https://solveig.shinyapps.io/standat/"
-url_pdf: "https://github.com/sbjorkholt/iso-standards/blob/main/StanDatPaper.pdf"
+ - Legitimation strategies
+ - Transnational governance
+title: 'Legitimation Strategies of Transnational Private Institutions: Evidence From the International Organization for Standardization'
+url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E43V2B
+#url_dataset: "https://solveig.shinyapps.io/standat/"
+#url_pdf: "https://github.com/sbjorkholt/iso-standards/blob/main/StanDatPaper.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
