@@ -17,7 +17,7 @@ main:
     url: teaching/
     weight: 30
   - name: Writing
-    url: projects/
+    url: writing/
     weight: 40
     
 
