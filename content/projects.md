@@ -8,12 +8,12 @@ sections:
     filters:
       folders:
       - project
-    text: 
-    title: Projects
+    text:
+    title: Writing
   design:
-    columns: 4
+    columns: 2
     fill_image: true
     view: article-grid
-title: Projects
+title: Writing
 type: landing
 ---

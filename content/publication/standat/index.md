@@ -7,7 +7,7 @@ abstract: This article presents an original database on international standards,
 # - Equal contribution
 authors:
 - admin
-date: "2024-11-01T00:00:00Z"
+date: "2025-11-01T00:00:00Z"
 doi: ""
 featured: true
 image:
