@@ -78,7 +78,7 @@ languages:
   percent: Fluent
 - name: German
   percent: Beginner
-last_name: BjC8rkholt
+last_name: Bjørkholt
 #name_pronunciation: Solveig BjC8rkholt
 organizations:
 - name: Statistics Norway
@@ -135,9 +135,9 @@ skills:
     percent: 80
   name: Hobbies
 # status:
-#   icon: bo8
+#   icon: book
 superuser: true
-title: Solveig BjC8rkholt
+title: Solveig Bjørkholt
 work:
 - company_logo: ""
   company_name: Statistics Norway
